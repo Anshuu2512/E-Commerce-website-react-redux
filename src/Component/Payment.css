@@ -1,0 +1,42 @@
+.address{
+    height: 6rem;
+    width: 120%;
+    /* border: 2px solid red; */
+    margin-left: 40px;
+    background-color: rgba(236, 242, 236, 0.953);
+}
+.accounts{
+    height: 30rem;
+    width: 120%;
+    margin-left: 40px;
+    background-color: rgba(236, 242, 236, 0.953);
+}
+.inside{
+    border: 1px solid  rgba(194, 192, 192, 0.901) ;
+   margin: 2rem;
+   border-radius: 4px;
+}
+.line{
+    width: 93%;
+    margin-left: 23px;
+}
+.delivery{
+    height: 6rem;
+    width: 120%;
+    margin-left: 40px;
+    background-color: rgba(236, 242, 236, 0.953);
+}
+.totalMoney{
+    height: 15.5rem;
+    width: 65%;
+    margin-left: 33%;
+    background-color: rgba(236, 242, 236, 0.953);
+    text-align: center;
+}
+.btn1{
+    width: 89%;
+    align-items: center;
+}
+.line2{
+    width: 97%;
+}

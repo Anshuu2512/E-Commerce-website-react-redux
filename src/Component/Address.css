@@ -1,0 +1,14 @@
+.section-1{
+    box-sizing: border-box;
+    margin: 0;
+  height: 50rem;
+    width: 40%;
+    border: 1px solid rgb(124, 121, 121);
+}
+.head{
+    background-color: rgb(169, 196, 169);
+}
+#select-box::placeholder{
+    background-color: rgb(169, 196, 169);
+    
+}
